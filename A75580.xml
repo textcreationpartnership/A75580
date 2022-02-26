@@ -1,0 +1,1149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ark, its loss and recovery; or, some meditations on the history recorded in the beginning of I Sam. in meeter</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75580</idno>
+            <idno type="STC">Wing A3697mA</idno>
+            <idno type="STC">ESTC R230977</idno>
+            <idno type="EEBO-CITATION">99896748</idno>
+            <idno type="PROQUEST">99896748</idno>
+            <idno type="VID">170774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2433:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ark, its loss and recovery; or, some meditations on the history recorded in the beginning of I Sam. in meeter</title>
+                  <author>Adamson, John, d. 1653, attributed name. aut</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Sometimes attributed to John Adamson.</note>
+                  <note>In verse.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 1st --  Meditations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="7" facs="tcp:170774:1" rendition="simple:additions"/>
+            <head>The ARK, its LOSS and RECO<g ref="char:EOLhyphen"/>VERY; Or, ſome Meditations on the Hiſtory recorded in the beginning of 1 <hi>Sam.</hi> in Meeter.</head>
+            <l>THe Ark in <hi>Shiloh</hi> reſted many a year;<note place="margin">1 Sam. 1.3. Ch. 2.12.</note>
+            </l>
+            <l>
+               <hi>Hophni</hi> and <hi>Phineas</hi> Prieſts of God were there:</l>
+            <l>Though Prieſts of God, yet Sons of <hi>Belial;</hi>
+            </l>
+            <l>The cauſers of their <hi>own,</hi> and <hi>fathers</hi> fall:</l>
+            <l>Their <hi>ignorance</hi> and <hi>ſcandal</hi> did diſgrace</l>
+            <l>Their holy <hi>function,</hi> and that holy <hi>place.</hi>
+            </l>
+            <l>To ſuch, their <hi>linnen Ephods</hi> but pretence.</l>
+            <l>It ſignifies, nor <hi>light,</hi> nor <hi>innocence;</hi>
+            </l>
+            <l>But whited <hi>Sepulchres;</hi> when that, which borders</l>
+            <l>On <hi>Atheiſm,</hi> is clad with <hi>holy Orders.</hi>
+               <note place="margin">Ch. 1.12.</note>
+            </l>
+            <l>Their <hi>ignorance</hi> was groſs, they knew not God,</l>
+            <l>Though in his houſe they had their whole abode:<note place="margin">15.</note>
+            </l>
+            <l>Their <hi>ſcandal</hi> groſs; rapacious
+<hi>gluttony,</hi>
+               <note place="margin">16.</note>
+            </l>
+            <l>And, its vile off-ſpring, brutiſh <hi>lechery,</hi>
+               <note place="margin">22.</note>
+            </l>
+            <l>The women at the Tabernacle doors;</l>
+            <l>This place a ſtews, thoſe votaries made whores;<note place="margin">17.</note>
+            </l>
+            <l>VVherefore their ſin was great before the Lord;</l>
+            <l>And men the <hi>offrings</hi> of the Lord <hi>abhorr'd:</hi>
+            </l>
+            <l>It was ſo then, and will be ſo, where e're</l>
+            <l>A <hi>blockiſh, brutiſh Clergy,</hi> domineer.</l>
+            <l>Their reverend father <hi>Eli</hi>'s made acquainted,<note place="margin">22.</note>
+            </l>
+            <l>VVith what debaucheries his Sons were tainted:</l>
+            <l>
+               <hi>Sons</hi> of the <hi>Church;</hi> whoſe
+<hi>blazing-vices</hi> will</l>
+            <l>No more be hid, then <hi>beacons</hi> on a hill.</l>
+            <l>And what ſays he? alas he's very old;<note place="margin">22.</note>
+            </l>
+            <l>And in this cauſe of God is very cold:</l>
+            <l>A feeble [why d'ye do ſo? with a why<note place="margin">23.</note>
+            </l>
+            <l>Hear I this evil to your infamy?]</l>
+            <l>
+               <pb n="2" facs="tcp:170774:2"/>Away my Sons; for 'tis no good report,<note place="margin">24.</note>
+            </l>
+            <l>I hear from all, that to me do reſort;</l>
+            <l>Not only evils, that <hi>your ſelves</hi> do do,</l>
+            <l>But that you make the <hi>People</hi> wicked too:</l>
+            <l>By vile <hi>perſwaſions,</hi> and by viler <hi>deeds,</hi>
+            </l>
+            <l>The Vulgar is corrupted: He proceeds:</l>
+            <l>The <hi>Judg</hi> ſhall judg the man, whom <hi>men</hi> implead;</l>
+            <l>If <hi>God's</hi> offended, <hi>who</hi> ſhall intercede?<note place="margin">25.</note>
+            </l>
+            <l>'Twas <hi>good,</hi> and <hi>grave</hi> reproof: but it was
+<hi>leſs,</hi>
+            </l>
+            <l>Then what was meet for ſuch vile wickedneſs.</l>
+            <l>Oh! that but half ſo many ſav'ry words</l>
+            <l>Might drop from any of thoſe Spiritual <hi>LORDS,</hi>
+            </l>
+            <l>Who can't but know the <hi>common fame's</hi> relation,</l>
+            <l>And hear the groans of a <hi>whole</hi> mourning
+<hi>Nation.</hi>
+            </l>
+            <l>But thus their gentle father could not ſtay them<note place="margin">25.</note>
+            </l>
+            <l>From ſinning; 'twas becauſe the Lord would ſlay them.</l>
+            <l>God <hi>hardens</hi> whom he means to <hi>break:</hi> thus ſteel</l>
+            <l>Is poud'red: and his hand they'l ſurely feel</l>
+            <l>
+               <hi>Emptying,</hi> and <hi>overturning,</hi> whom he ſees,<note place="margin">Zeph. 1: 12.</note>
+            </l>
+            <l>And does permit, to <hi>ſettle</hi> on their <hi>lees.</hi>
+            </l>
+            <l>Mean while does<note n="*" place="margin">
+                  <hi>That is,</hi> Asked of God.</note> 
+               <hi>Samuel</hi> grow; that <hi>child of tears,</hi>
+               <note place="margin">26.</note>
+            </l>
+            <l>Child of a gracious Mothers <hi>Vows</hi> and
+<hi>prayers;</hi>
+            </l>
+            <l>(That, when this curſed crew ſhould be remov'd,</l>
+            <l>He might ſucceed) of <hi>God,</hi> and <hi>men belov'd.</hi>
+            </l>
+            <l>He needs muſt <hi>proſper,</hi> whom the Lord does
+<hi>bleſt:</hi>
+            </l>
+            <l>Needs muſt be <hi>lov'd,</hi> where God plants lovelineſs:</l>
+            <l>He needs muſt <hi>thrive,</hi> that has a <hi>portion,</hi> where</l>
+            <l>It can't be loſt, as it is often here:</l>
+            <l>Pray'rs put to <hi>interest</hi> in <hi>heav'n</hi> are better,</l>
+            <l>Where God by <hi>Promiſes</hi> becomes the <hi>debtor.</hi>
+            </l>
+            <l>Ask'd, and receiv'd of God; return'd; accepted;</l>
+            <l>For, and from, ſuch a child, what may b'expected?</l>
+            <l>And in a dark, and doleful day, 'tis well,</l>
+            <l>God <hi>can</hi> raiſe <hi>Samuel</hi>'s for his
+<hi>Iſrael.</hi>
+            </l>
+            <l>A man of G<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to father <hi>Eli</hi> came;<note place="margin">27.</note>
+            </l>
+            <l>Did his <hi>Sons vileneſs,</hi> and his <hi>mildneſs</hi> blame:</l>
+            <l>In Gods name thus beſpeak them: Did I chuſe<note place="margin">28.</note>
+            </l>
+            <l>Your Fathers for my <hi>Priesthood</hi> you abuſe?</l>
+            <l>
+               <pb n="3" facs="tcp:170774:2"/>Did I appear in <hi>Egypt</hi> to relieve them?</l>
+            <l>And after, Iſraels <hi>Offrings</hi> did I give them?</l>
+            <l>Did God by
+<note n="*" place="margin">Forſan<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rum st<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> &amp; Titu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Providence,</hi> or by <hi>Permiſſion,</hi>
+            </l>
+            <l>Advance, and put them in ſo good condition?</l>
+            <l>Not only ſave them, when they were <hi>ſo low;</hi>
+            </l>
+            <l>But by his bounty made them <hi>over flow?</hi>
+            </l>
+            <l>Why <hi>kick</hi> ye at mine <hi>offring?</hi> (like the teaching<note place="margin">29</note>
+            </l>
+            <l>Of thoſe who often <hi>preach</hi> 'gainſt <hi>often preaching</hi>).</l>
+            <l>Which I commanded have:why are preferr'd<note place="margin">29</note>
+            </l>
+            <l>Thy graceleſs Sons <hi>before me?</hi> thou haſt err'd:</l>
+            <l>You feed your <hi>Selves,</hi> and not my <hi>Flock;</hi> you ſnatch</l>
+            <l>What's not your <hi>ſhare;</hi> you live upon the catch:</l>
+            <l>Things <hi>inharmonious</hi> are, and out of tune,</l>
+            <l>Where Prieſts are fat, and <hi>ſacrifice Jejune.</hi>
+            </l>
+            <l>Who <hi>honour</hi> me I'le <hi>honour</hi> in mens eyes;<note place="margin">30</note>
+            </l>
+            <l>Lightly <hi>esteem'd</hi> ſhall be, who me
+<hi>deſpiſe.</hi>
+            </l>
+            <l>'Tis not <hi>proud looks, big words,</hi> can men exempt</l>
+            <l>From <hi>just diſgrace,</hi> from a <hi>deſerv'd contempt.</hi>
+            </l>
+            <l>The <hi>ſwelling Toad</hi> did burſt (if tales ſay true)</l>
+            <l>And then his lothſome garbage came in view.</l>
+            <l>Is not the <hi>empty chaff</hi> lift up (I pray)</l>
+            <l>In winnowing only to be blown away?</l>
+            <l>'Tis not the <hi>ſlippery hight</hi> ſecures at all:<note place="margin">Pſal. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+18.</note>
+            </l>
+            <l>Only procures (when't comes) the <hi>greater fall.</hi>
+            </l>
+            <l>The <hi>proudest plumes</hi> muſt down, when God
+<hi>diſgraces,</hi>
+            </l>
+            <l>By loſs of <hi>reputations</hi> firſt, then
+<hi>places.</hi>
+            </l>
+            <l>Thine arm of ſtrength I will cut off, behold<note place="margin">3</note>
+            </l>
+            <l>In all thine houſe ſhall not a man grow <hi>old.</hi>
+            </l>
+            <l>My pretious time they ſhall not idly ſpend;</l>
+            <l>But <hi>end</hi> their <hi>lives</hi> for <hi>living</hi> to
+<hi>no end.</hi>
+            </l>
+            <l>
+               <hi>Thou</hi> bringſt an <hi>enemy</hi> where I do dwell,<note place="margin">3</note>
+            </l>
+            <l>In all the <hi>wealth</hi> I give to Iſrael.</l>
+            <l>Theſe are the <hi>true</hi> ſtate enemies, that fall</l>
+            <l>Like angry <hi>Sampſon,</hi> ruine <hi>ſelves</hi> and
+<hi>all:</hi>
+            </l>
+            <l>That by their wickedneſs do miſchiefs bring,</l>
+            <l>Upon <hi>themſelves,</hi> their Country, and their King:</l>
+            <l>Thoſe are the real Rebels that are ſo,<note place="margin">ch.
+1</note>
+            </l>
+            <l>Both to their King above, and him below:</l>
+            <l>
+               <pb n="4" facs="tcp:170774:3"/>Theſe do, not only <hi>call in</hi> enemies.</l>
+            <l>But make them <hi>proſper</hi> in their enterpriſe:</l>
+            <l>
+               <hi>Theſe</hi> weaken <hi>hearts,</hi> and <hi>hands; divide, confound</hi>
+            </l>
+            <l>
+               <hi>Councels,</hi> and <hi>actions;</hi> run a State on ground:</l>
+            <l>Not only do their <hi>own</hi> Eſtates let fly,</l>
+            <l>But turn a <hi>Nations wealth</hi> to beggery:</l>
+            <l>And yet (that they may ſtill paſs unſuſpected)</l>
+            <l>Cry out of <hi>others; Oh th'are diſaffected.</hi>
+            </l>
+            <l>If any man of thine I do reprieve,<note place="margin">3.</note>
+            </l>
+            <l>Thine eyes he ſhall conſume, thine heart ſhall grieve:</l>
+            <l>The ſpreading branches of thine houſe I'le lop,</l>
+            <l>Thy buds, thy bloſſoms, in the flow'r I'le crop:<note place="margin">4.</note>
+            </l>
+            <l>And take this for a ſignal from on high,</l>
+            <l>
+               <hi>Hophni,</hi> and <hi>Phineas,</hi> in one day ſhall die.</l>
+            <l>Thus men of greateſt Comforts are depriv'd,</l>
+            <l>When not <hi>return'd,</hi> from whence they were deriv'd:</l>
+            <l>Thus greateſt hopes are daſh'd, by God confounded,</l>
+            <l>When upon ought, beſide himſelf, they'r grounded.</l>
+            <l>After which, I a <hi>faithful</hi> Prieſt will raiſe,<note place="margin">5.</note>
+            </l>
+            <l>Shall do, what's in my heart, unto my praiſe:</l>
+            <l>He'l mind my mind; his houſe ſhall be ſecure,</l>
+            <l>Before my <hi>Christ</hi> for ever to endure.<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nted</note>
+            </l>
+            <l>Yea, <hi>that's</hi> a faithful one indeed, that ſtill</l>
+            <l>In <hi>all his</hi> Miniſtrations, the will</l>
+            <l>Of God <hi>reveal d in's Word</hi> does mind; the faſhions,</l>
+            <l>Inventions, humours, fancies, pride, or paſſions,</l>
+            <l>His own, or others, never <hi>yields</hi> unto:</l>
+            <l>He'l <hi>thrive</hi> with God, though men do him
+<hi>undo,</hi>
+            </l>
+            <l>The face of God <hi>for ever</hi> ſhall he ſee;</l>
+            <l>How e're <hi>unfix'd</hi> on earth his ſtation be.</l>
+            <l>Then every one, that of thine houſe remain,<note place="margin">6.</note>
+            </l>
+            <l>Shall crouch a petty penſion to obtain;</l>
+            <l>Shall beg a piece of Silver, bit of meat;</l>
+            <l>Shall beg an Office, he may have to eat.</l>
+            <l>Such <hi>hireling</hi> Prieſts will for a piece of bread,<note place="margin">13.</note>
+            </l>
+            <l>Handfuls of Barley, that they may be fed,<note place="margin">19.</note>
+            </l>
+            <l>
+               <hi>Condemn,</hi> whom God <hi>acquits,</hi> and by a lie</l>
+            <l>
+               <hi>Encourage</hi> ſouls, whom God <hi>condemns</hi> to die.</l>
+            <l>
+               <pb n="5" facs="tcp:170774:3"/>But ſee, pride, avarice, to what it tends;</l>
+            <l>Luſt, riot, rapine, ſee but where it ends.</l>
+            <l>
+               <hi>Samuel,</hi> the <hi>Gracious Child,</hi> unto the Lord<note place="margin">Ch. 3.</note>
+            </l>
+            <l>Did miniſter; then <hi>precious was the word:</hi>
+            </l>
+            <l>The word, when <hi>plentiful,</hi> had in deriſion,</l>
+            <l>Grew now eſteem'd; <hi>there was no open viſion.</hi>
+            </l>
+            <l>God can <hi>inhance</hi> his truths, and make men priſe</l>
+            <l>His Goſpel-light, by <hi>hiding't</hi> from their eyes.</l>
+            <l>He can make proud deſpiſers, lofty ſcorners,</l>
+            <l>That <hi>ſlight</hi> his word i'th' <hi>streets,</hi> go
+<hi>ſeek't</hi> in <hi>corners,</hi>
+               <note place="margin">7</note>
+            </l>
+            <l>
+               <hi>Rais't</hi> by <hi>depreſſions; free</hi> it by
+<hi>restraints;</hi>
+               <note place="margin">3</note>
+            </l>
+            <l>By <hi>wicked ſhakings,</hi> can make <hi>ſetled ſaints:</hi>
+               <note place="margin">4</note>
+            </l>
+            <l>Thus counterplots he Satan, and his tools:<note place="margin">Iſa. 29.12, 13.</note>
+            </l>
+            <l>Thus <hi>Noph,</hi> and <hi>Zoan,</hi> Councellors are fools.</l>
+            <l>When <hi>Elies</hi> lamps were dim, Gods lamp had light;<note place="margin">2.</note>
+            </l>
+            <l>His Candleſtick not yet removed quite,<note place="margin">3.</note>
+            </l>
+            <l>
+               <hi>Samuel</hi> lay down to ſleep, whom God doth wake;<note place="margin">4.</note>
+            </l>
+            <l>And unto <hi>Eli</hi> ran he through miſtake:<note place="margin">5.</note>
+            </l>
+            <l>Thrice thus miſtaken, he to <hi>Eli</hi> ran;<note place="margin">6.</note>
+            </l>
+            <l>Nor could <hi>diſcern</hi> 'twixt voice of <hi>God</hi> and
+<hi>man:</hi>
+               <note place="margin">11.</note>
+            </l>
+            <l>Poor novice! yet he knew not well the Lord;<note place="margin">7.</note>
+            </l>
+            <l>Nor fully was reveal'd to him the word.</l>
+            <l>O would too many were not to be found</l>
+            <l>Of <hi>riper years,</hi> that can't <hi>diſcern</hi> the ſound</l>
+            <l>Of <hi>words</hi> of <hi>worthy men</hi> (unto this hour)</l>
+            <l>From <hi>ſpiritual Goſpels mighty ſaving power!</hi>
+            </l>
+            <l>But to old <hi>Eli,</hi> it Gods call appears;<note place="margin">8.</note>
+            </l>
+            <l>Who bids him ſay, ſpeak Lord, thy ſervant hears:<note place="margin">9.</note>
+            </l>
+            <l>He does ſo: then the Lord doth farther tell,<note place="margin">10.</note>
+            </l>
+            <l>How he would do a thing in <hi>Iſrael,</hi>
+            </l>
+            <l>Should make their ears to <hi>tingle,</hi> who ſhould hear it,<note place="margin">11.</note>
+            </l>
+            <l>He'd Judgment bring, and <hi>Elies houſe</hi> ſhould bear it.<note place="margin">12.</note>
+            </l>
+            <l>Their ears to <hi>tingle,</hi> that would <hi>tickled</hi> be?</l>
+            <l>Judgment on thoſe, that hope yet to go free?</l>
+            <l>On <hi>Elies houſe?</hi> who's on this meſſage ſent,</l>
+            <l>By <hi>Elies bouſe</hi> will certainly be <hi>ſhent:</hi>
+            </l>
+            <l>
+               <hi>Rough preaching</hi> will <hi>rough handling</hi> meet;
+<hi>ſuſpended</hi>
+            </l>
+            <l>At leaſt he'l be, till <hi>Elie's</hi> power be ended.</l>
+            <l>
+               <pb n="6" facs="tcp:170774:4"/>When I begin (ſaith God) I'le make an end;</l>
+            <l>For <hi>I</hi> have told him, I will Judgments ſend,</l>
+            <l>For his Sons unreſtrained Villanies:</l>
+            <l>I've ſworn, it ſha'nt be purg'd by ſacrifice.<note place="margin">4.</note>
+            </l>
+            <l>'Tis ſad! but juſt: <hi>Priests</hi> hainous crimes do cry</l>
+            <l>
+               <hi>Louder,</hi> than others, for <hi>ſeverity.</hi>
+            </l>
+            <l>If you (by place) draw <hi>nigh him;</hi> know, <hi>he's nigh</hi> you.</l>
+            <l>Trembling remember <hi>Nadab</hi> and <hi>Abihu.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t.
+10.15.</note>
+            </l>
+            <l>
+               <hi>Samuel</hi> lay til the morn; was then afraid</l>
+            <l>To tell old <hi>Eli,</hi> what the Lord had ſaid:</l>
+            <l>And well he might, expecting nought but ſcorn:</l>
+            <l>
+               <hi>(I know, by whom, the like would ne're be born.)</hi>
+            </l>
+            <l>But <hi>Eli</hi> will hear all; and does ſubmit:<note place="margin">17.</note>
+            </l>
+            <l>'Tis the Lord: let him do what he ſees fit.<note place="margin">18.</note>
+            </l>
+            <l>A good <hi>Submiſſion:</hi> let it pattern be</l>
+            <l>To us in <hi>fear'd</hi> or <hi>felt</hi> calamitie:</l>
+            <l>God was with growing <hi>Samuel:</hi> none of all<note place="margin">19.</note>
+            </l>
+            <l>His words to ground did unregarded fall:</l>
+            <l>Him an <hi>establiſh'd</hi> Prophet <hi>Iſrael knew:</hi>
+               <note place="margin">10.</note>
+            </l>
+            <l>
+               <note place="margin">11.</note>To whom in Shiloh <hi>God himſelf</hi> did <hi>ſhew.</hi>
+            </l>
+            <l>By <hi>God</hi> he's <hi>own'd;</hi> to <hi>Iſrael</hi> he's
+<hi>known:</hi>
+            </l>
+            <l>His <hi>Call</hi> who'l call in <hi>question?</hi> who'l diſown?</l>
+            <l>'Tis <hi>bold</hi> to ſlight <hi>confeſs'd reality,</hi>
+            </l>
+            <l>For want perhaps of ſome <hi>formality.</hi>
+            </l>
+            <l>Idle drones, angry Waſps (we know their honey)</l>
+            <l>They'l part with <hi>wax</hi> to thoſe, will part with
+<hi>money:</hi>
+            </l>
+            <l>But <hi>Goſpel-calls,</hi> though they're not <hi>legal</hi> ones,</l>
+            <l>Will ſerve for <hi>Goſpel-ministrations.</hi>
+            </l>
+            <l>He need not care, whom <hi>Heavens broad-ſeal</hi> confirms,</l>
+            <l>To get earths <hi>purchas'd</hi> ſeal, on <hi>dirty</hi> terms.</l>
+            <l>Now <hi>Iſrael</hi> would forth in battel go<note place="margin">4. 1.</note>
+            </l>
+            <l>To fight the <hi>Philistines</hi> their ancient foe:</l>
+            <l>But Oh alas! it was with little gain;</l>
+            <l>
+               <hi>Iſrael</hi> is ſmitten, and four thouſand ſlain.</l>
+            <l>In <hi>hast</hi> they went, <hi>without</hi> their <hi>God;</hi> their loſs</l>
+            <l>Returns them back again by weeping-croſs.</l>
+            <l>Hot ſpurs may <hi>eaſily begin</hi> a <hi>fray,</hi>
+            </l>
+            <l>Who, <hi>not</hi> ſo eaſily can <hi>win</hi> the day.</l>
+            <l>
+               <pb n="7" facs="tcp:170774:4"/>The Elders pauſe upon't, and thus adviſe;</l>
+            <l>
+               <hi>Why</hi> hath <hi>God</hi> ſmote us <hi>by</hi> our
+<hi>enemies?</hi>
+            </l>
+            <l>
+               <hi>Affliction</hi> makes men <hi>ſerious;</hi> then they'l think,</l>
+            <l>
+               <hi>Who</hi> 'tis, that bores their keel, and <hi>why</hi> they ſink:</l>
+            <l>They <hi>now</hi> diſcern, <hi>whoſe arrows</hi> 'twere that ſmot them</l>
+            <l>Although they were <hi>Philistian bows</hi> that ſhot them.</l>
+            <l>Come; let us have the Ark among us; then</l>
+            <l>God's hand will ſave us from the hands of men.</l>
+            <l>The Sons of <hi>Eli</hi> to the Camp it bring;<note place="margin">4.</note>
+            </l>
+            <l>All <hi>Iſrael</hi> did ſhout; the earth did ring:<note place="margin">5.</note>
+            </l>
+            <l>When <hi>Micha</hi> got a vagrant-<hi>Levite,</hi> he<note place="margin">Judg. 17 13 Jer. 7.4</note>
+            </l>
+            <l>Forthwith expected g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat <hi>Proſperity;</hi>
+            </l>
+            <l>The <hi>Temple, Temple</hi> of the Lord are theſe,</l>
+            <l>Were idle words, did idle people pleaſe:</l>
+            <l>The <hi>Church,</hi> the <hi>Church,</hi> is ſuch an empty noiſe,</l>
+            <l>Wherewith ſome vaunt, that vaunt themſelves of toys:</l>
+            <l>Even ſuch was this <hi>poor Ark;</hi> an empty ſhew</l>
+            <l>When <hi>God</hi> o'th' Covenant himſelf <hi>withdrew:</hi>
+            </l>
+            <l>Could leſs be look'd for, when <hi>ſuch Priests</hi> were by?</l>
+            <l>When't had ſuch Cattel in its company.<note place="margin">6.</note>
+            </l>
+            <l>The <hi>Philistius</hi> the noiſe and news did hear:</l>
+            <l>
+               <hi>Thinking</hi> the <hi>Hebrews</hi> God was there, did
+<hi>fear.</hi>
+            </l>
+            <l>Did the <hi>Philistins</hi> fear? fear all ye ſlighters,<note place="margin">7.</note>
+            </l>
+            <l>In any caſe, againſt God, to be found fighters.</l>
+            <l>Wo unto us they cry; 'twas never thus;</l>
+            <l>They're mighty Gods; who ſhall deliver us?</l>
+            <l>'Twas never thus? <hi>Extravagancies</hi> uſe</l>
+            <l>The inconſiderate vulgar to <hi>amuſe.</hi>
+               <note place="margin">8.</note>
+            </l>
+            <l>Thoſe are the Gods, that them from <hi>Egypt</hi> brought;</l>
+            <l>That in the Wilderneſs ſuch Wonders wrought.</l>
+            <l>Have <hi>none,</hi> but <hi>theſe,</hi> heard <hi>Egypts</hi> Prodigies?<note place="margin">9.</note>
+            </l>
+            <l>Wilderneſs-works? <hi>(Open, O Lord, mens eyes!)</hi>
+            </l>
+            <l>Now quit your ſelves like men, leſt they be ſeen</l>
+            <l>To be our <hi>Lords,</hi> that have our <hi>vaſſals</hi> been.</l>
+            <l>Like <hi>men!</hi> like <hi>devils:</hi> for what mortal he</l>
+            <l>Dares to oppoſe, where God but <hi>ſeems</hi> to be?</l>
+            <l>But Tyranny is loth to loſe its profit:</l>
+            <l>They'l try to hold their ſlaves, what e're comes of it.</l>
+            <l>
+               <pb n="8" facs="tcp:170774:5"/>They fought like men indeed; for
+<hi>Iſrael</hi>
+               <note place="margin">10.</note>
+            </l>
+            <l>VVere ſmitten, fled, and thirty thouſand fell;</l>
+            <l>And (which was worſt) the Ark of God they gain;<note place="margin">11.</note>
+            </l>
+            <l>And (which was juſt) the Sons of <hi>Eli</hi> ſlain.</l>
+            <l>Thus the poor Ark (an <hi>Idol</hi> made) is taken;</l>
+            <l>Nor helps it <hi>ſelf,</hi> nor <hi>them,</hi> of <hi>God forſaken.</hi>
+            </l>
+            <l>Thus <hi>threats</hi> are prov'd in their moſt ſad concluſions,</l>
+            <l>Nor <hi>Melancholy</hi> fancies, nor <hi>deluſions.</hi>
+            </l>
+            <l>A <hi>Benjamite</hi> that day to <hi>Shiloh</hi> fled,<note place="margin">12.</note>
+            </l>
+            <l>VVith Garments rent, and earth upon his head.</l>
+            <l>
+               <hi>Sad news</hi> comes <hi>Thundring</hi> home, and rending hearts;</l>
+            <l>As <hi>lightning quick,</hi> or feathred wounding
+<hi>darts.</hi>
+            </l>
+            <l>He came, where <hi>Eli</hi> by then way did ſit,<note place="margin">13.</note>
+            </l>
+            <l>VVho for the Ark was in a trembling fit:</l>
+            <l>Not only for the <hi>danger,</hi> which appear'd,</l>
+            <l>But <hi>conſcious</hi> of the <hi>cauſe,</hi> of what he fear'd.</l>
+            <l>He told the Citizens, they all cry'd out;</l>
+            <l>
+               <hi>Eli</hi> does hear; demand what means the rout:<note place="margin">14.</note>
+            </l>
+            <l>In haſt the man comes in; the ſtory told</l>
+            <l>To him (who now was ninety eight years old.)<note place="margin">1.</note>
+            </l>
+            <l>
+               <hi>Iſrael</hi> is <hi>fled;</hi> that could not but affect him:<note place="margin">17.</note>
+            </l>
+            <l>VVith a <hi>great ſlaughter;</hi> that muſt <hi>more deject</hi> him:</l>
+            <l>Thy <hi>Sons</hi> are alſo <hi>dead;</hi> that's <hi>nigher</hi> to him:</l>
+            <l>The <hi>Ark</hi> is <hi>taken;</hi> that <hi>quite overthrew</hi> him:</l>
+            <l>For then he fell, old, heavy, and dime-ye'd,<note place="margin">18.</note>
+            </l>
+            <l>He backwards fell, he brake his neck and dy'd:</l>
+            <l>He fell from off the ſeat, where he had ſate</l>
+            <l>Forty years judging <hi>Iſrael</hi> in the gate.</l>
+            <l>There lay a <hi>Judg condemn'd,</hi> and <hi>executed:</hi>
+            </l>
+            <l>There lay a <hi>Purifying</hi> Prieſt <hi>polluted:</hi>
+            </l>
+            <l>Slain like a <hi>ſacrifice:</hi> one in diſgrace.</l>
+            <l>Of <hi>reverend</hi> age, and <hi>honourable</hi> place;</l>
+            <l>As <hi>man</hi> (we may believe) <hi>good</hi> in the main;</l>
+            <l>As <hi>Father;</hi> by his fondneſs <hi>justly</hi> ſlain.</l>
+            <l>God gave him <hi>raynes,</hi> but (as is ſadly ſhown)</l>
+            <l>Throwing them on the mad Colts necks; he's thrown.</l>
+            <l>His <hi>grace,</hi> and <hi>bad-good nature</hi> long contended;</l>
+            <l>VVhen this o'recame, it Tragically ended.</l>
+            <l>
+               <pb n="9" facs="tcp:170774:5"/>When <hi>Phineas</hi> pregnant Widow heard of all;<note place="margin">19.</note>
+            </l>
+            <l>Th' Arks loſs, her Fathers, and her Husband fall;</l>
+            <l>She cry'd, gone is our <hi>glory</hi> with our <hi>God:</hi>
+               <note place="margin">21.</note>
+            </l>
+            <l>She dy'd, and nam'd Poſthumous<note n="*" place="margin">That is
+<hi>Where is the Glory</hi>
+               </note> 
+               <hi>Ichabod</hi>
+               <note place="margin">22.</note>
+            </l>
+            <l>The glory gone from <hi>Iſrael</hi> doth ſhe cry?</l>
+            <l>Waſt with the <hi>brethren</hi> in iniquity?</l>
+            <l>No; <hi>though</hi> they <hi>rufftled</hi> if, yet
+<hi>infamous</hi>
+            </l>
+            <l>Were they in life, in death calamitous.</l>
+            <l>Or did old <hi>Elie's</hi> loſs their glory dim?</l>
+            <l>Alas! his <hi>glory's</hi> loſts, e're <hi>they</hi> loſt
+<hi>him.</hi>
+            </l>
+            <l>No, no, it was the Ark; for it was there,</l>
+            <l>
+               <hi>God's glory</hi> ſhone upon their Hemiſphere.</l>
+            <l>She dy'd regardleſs of her Progeny,</l>
+            <l>Cruſh'd in the ruines of her Family:</l>
+            <l>Her breath ſhortn'd by death, ſhort'ns the ſtory;</l>
+            <l>She breaths all in a word, <hi>GONE IS O<g ref="char:V">Ʋ</g>R GLORY.</hi>
+            </l>
+            <div n="2" type="part">
+               <head>The Second Part. <hi>THE RECOVERY.</hi>
+               </head>
+               <l>THe joll <hi>Philistins</hi> do homeward hie,<note place="margin">Ch. 5.1.</note>
+               </l>
+               <l>With th'Ark, a Trophee of their victory:</l>
+               <l>From<note n="†" place="margin">Ch. 7.1</note> 
+                  <hi>Eben ezer</hi> (other while, 'tis true,</l>
+               <l>
+                  <hi>A stone of help,</hi> now none, when God withdrew.)</l>
+               <l>To <hi>Aſhdod,</hi> there, their houſe of gods to ſtock;<note place="margin">2.</note>
+               </l>
+               <l>In <hi>Dagon's</hi> houſe they ſet it by their block.</l>
+               <l>The God of <hi>Iſrael</hi> does much abhor it:</l>
+               <l>In <hi>Dagons</hi> houſe? <hi>Dagon</hi> muſt tumble for it:</l>
+               <l>For, when they early came (perhaps to ſee<note place="margin">3.</note>
+               </l>
+               <l>How well the <hi>Ark</hi> and <hi>Dagon</hi> could
+<hi>agree,</hi>
+               </l>
+               <l>They found their Idol faln; before the place,</l>
+               <l>Where <hi>stood</hi> the Ark, <hi>Dagon</hi> lay on his face.</l>
+               <l>Lets turn our thoughts a while, and view the damp</l>
+               <l>Is caſt upon their triumph; ſee them ſtamp;</l>
+               <l>Tear their hairs; beat their breaſts, perplext to ſee</l>
+               <l>Their <hi>captive-preſent conqueror</hi> to be:</l>
+               <l>Lets view the <hi>ſecret power,</hi> and <hi>equity,</hi>
+               </l>
+               <l>That moves the work of this Cataſtrophie.</l>
+               <l>
+                  <pb n="10" facs="tcp:170774:6"/>The <hi>Ark</hi> was <hi>Gods appointment; mans conceit</hi>
+               </l>
+               <l>Was <hi>Dagon,</hi> and his worſhip but a cheat.</l>
+               <l>
+                  <hi>Humane inventions</hi> on the <hi>ground</hi> muſt lie,</l>
+               <l>Though ſhoulder'd up by <hi>power</hi> and
+<hi>policy,</hi>
+               </l>
+               <l>If this be ſeen in a <hi>Philistian</hi> land,<note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zek.
+43.8.</note>
+               </l>
+               <l>Can <hi>post</hi> by <hi>pillar</hi> in the <hi>Temple</hi> ſtand?</l>
+               <l>They ſet him <hi>up again,</hi> and on the morrow.<note place="margin">4.</note>
+               </l>
+               <l>They find him down again, <hi>more</hi> to their ſorrow,</l>
+               <l>Without, or <hi>head,</hi> or <hi>hand,</hi> there lay the lump:</l>
+               <l>Only to <hi>Dagon</hi> now was left the ſtump.</l>
+               <l>If <hi>one fair fall</hi> does not make them give o're</l>
+               <l>Their <hi>Wrestlings</hi> with the Lord, he'l give them
+<hi>more.</hi>
+               </l>
+               <l>The <hi>former</hi> down-fall <hi>gently</hi> did beſpeak'em,</l>
+               <l>And warn them to <hi>ſubmit;</hi> the <hi>next will break</hi>
+'em.</l>
+               <l>Therefore, nor Prieſts, nor Worſhippers, will tread<note place="margin">5.</note>
+               </l>
+               <l>Upon the threſhold, where he loſt his head.</l>
+               <l>And what is done for men of <hi>like conditions,</hi>
+               </l>
+               <l>To <hi>cure</hi> them, does <hi>augment</hi> their ſuperſtitions:<note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er. 51.9.</note>
+               </l>
+               <l>Thus <hi>Babylon</hi> will not be heal'd at all.</l>
+               <l>Therefore ſhall irrecoverably fall:</l>
+               <l>Without <hi>adviſing</hi>-head, or <hi>helping</hi>-hand</l>
+               <l>Was now <hi>their</hi> God; but <hi>heavy</hi> on the Land.</l>
+               <l>The <hi>hand</hi> of <hi>Iſrael, s God,</hi> the Lord of hoſts,<note place="margin">6.</note>
+               </l>
+               <l>Was upon <hi>Aſhdod,</hi> and on all its coaſts;</l>
+               <l>With <hi>Emerods</hi> ſmote he them.— he ſo thinks fit,</l>
+               <l>While th' <hi>Ark's detain'd,</hi> they ſhall not <hi>eaſy ſit.</hi>
+               </l>
+               <l>They may ſow <hi>pillows, cuſhions,</hi> to be eas'd;<note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zek.
+13.20.</note>
+               </l>
+               <l>But 'twill <hi>not do, while</hi> God remains diſpleas'd.</l>
+               <l>The men of <hi>Aſhdod,</hi> when they ſaw 'twas ſo;<note place="margin">7.</note>
+               </l>
+               <l>When they <hi>perceiv'd</hi> the <hi>cauſe</hi> of all their wo;</l>
+               <l>They ſaid, let's keep the Ark of God no more,</l>
+               <l>Whoſe hand on us, and <hi>Dagon,</hi> lies ſo ſore.</l>
+               <l>The eyes of <hi>Dagonites</hi> are open'd, who</l>
+               <l>
+                  <hi>Diſcern for what</hi> they're plagu'd, and <hi>what to do.</hi>
+               </l>
+               <l>Would <hi>others,</hi> that have felt the hand of God,</l>
+               <l>Would learn of <hi>Philistines</hi> to <hi>hear the rod:</hi>
+                  <note place="margin">8.</note>
+               </l>
+               <l>They call their Lords, their <hi>Law-givers,</hi> to tell,</l>
+               <l>What ſhould be done with th'Ark of <hi>Iſrael:</hi>
+               </l>
+               <l>
+                  <pb n="11" facs="tcp:170774:6"/>Who (<hi>loath as yet</hi> to let it go) conſent,</l>
+               <l>
+                  <hi>Such was the wiſdom of that Parliament</hi>)</l>
+               <l>To have it had about to <hi>Gath;</hi> they'l <hi>try</hi>
+               </l>
+               <l>
+                  <hi>Experiments,</hi> if <hi>there</hi> 'twil quiet lye.</l>
+               <l>
+                  <hi>Thus</hi> were the <hi>Syrian</hi> privy Councellors
+<hi>wiſe,</hi>
+                  <note place="margin">1 Kin. 20.22.</note>
+               </l>
+               <l>When they their King ſo gravely did adviſe</l>
+               <l>To try the Plain, and promis'd him ſucceſs;</l>
+               <l>When in the event they found it nothing leſs.</l>
+               <l>Nothing does more 'gainſt men God's anger fix,</l>
+               <l>Then when they think to <hi>baffle him with tricks.</hi>
+               </l>
+               <l>Their <hi>law</hi> is put in <hi>Execution,</hi>
+                  <note place="margin">9.</note>
+               </l>
+               <l>To <hi>Gath</hi> 'tis carry'd; ſee what comes thereon:</l>
+               <l>See if the <hi>laws</hi> of <hi>men</hi> will <hi>bear them out,</hi>
+               </l>
+               <l>And <hi>justifie</hi> their tumbling it about:</l>
+               <l>A very ſore deſtroying <hi>whipping-rod</hi>
+               </l>
+               <l>Of an avenging, of an angry God.</l>
+               <l>With Emerods alſo did he ſmite them <hi>all,</hi>
+               </l>
+               <l>Princes, and People, high, low, great, and ſmall.</l>
+               <l>Who <hi>ſhare</hi> in <hi>ſin,</hi> muſt
+<hi>ſorrows</hi> alſo <hi>ſhare,</hi>
+               </l>
+               <l>What ſtate, or quality, ſoe're they are.</l>
+               <l>Whilſt in their <hi>ſecret parts</hi> thoſe Emerods be,</l>
+               <l>Th'afflicted <hi>felt,</hi> what others could not
+<hi>ſee:</hi>
+               </l>
+               <l>Much like the <hi>ſecret ſmarts,</hi> and inward twinging</l>
+               <l>Of <hi>ſeared hearts,</hi> when they are <hi>further ſingeing.</hi>
+               </l>
+               <l>The men of Gath, thus <hi>wearied with't,</hi> would have it<note place="margin">10.</note>
+               </l>
+               <l>To Ekron ſent; the Ekronites do <hi>wave it.</hi>
+               </l>
+               <l>They would not have the <hi>stone</hi> ſo
+<hi>burthenſome,</hi>
+                  <note place="margin">Zach. 12.3. Mat. 21.44.</note>
+               </l>
+               <l>The <hi>builders breaking, grinding stone</hi> to come</l>
+               <l>Within their quarters, for that they had ſeen it</l>
+               <l>
+                  <hi>Hurtful</hi> to <hi>others;</hi> they'l <hi>not meddle in it.</hi>
+               </l>
+               <l>They all cry'd out, With us it ſhall not ſtay:</l>
+               <l>They've brought the Ark to us, that us will ſlay.</l>
+               <l>What if it do? their Lords ſeem to reply;</l>
+               <l>Die <hi>Martyrs</hi> of our <hi>Laws,</hi> your
+<hi>loyalty.</hi>
+               </l>
+               <l>'Tis <hi>four</hi> to <hi>one;</hi> the major part out-vote you;</l>
+               <l>If you obey not, <hi>factious</hi> we muſt note you.</l>
+               <l>On t'other hand, the <hi>Ekronites</hi> do ſeem,</l>
+               <l>For all this <hi>talk,</hi> much otherwiſe to deem.</l>
+               <l>
+                  <pb n="12" facs="tcp:170774:7"/>We think it neither faction, nor treaſon,</l>
+               <l>T'<hi>appeal</hi> from you to <hi>common ſenſe,</hi> and
+<hi>reaſon.</hi>
+               </l>
+               <l>If 't be a <hi>law, repeal't;</hi> there's nought, but
+<hi>need;</hi>
+               </l>
+               <l>And make <hi>another better</hi> in its ſtead.</l>
+               <l>They congregate their Lords, and them petition,<note place="margin">11.</note>
+               </l>
+               <l>Oh ſend it to its place with expedition.</l>
+               <l>For if it here with us do longer ſtay,</l>
+               <l>The hand of God will <hi>ſweep</hi> us <hi>all</hi> away:</l>
+               <l>Many were dead; the reſt were ſick; the cry<note place="margin">12.</note>
+               </l>
+               <l>Of all the City mounted to the sky.</l>
+               <l>The sky does Eccho 't back unto the ground;</l>
+               <l>And all their <hi>neighbours</hi> hear the doleful ſound.</l>
+               <l>Sev'n months by them the Ark had been reſtrain'd:<note place="margin">6.1.</note>
+               </l>
+               <l>(But if <hi>ſeven years</hi> with them 't had been detain'd,</l>
+               <l>What work would it have made? ſure at this rate</l>
+               <l>Th'ad all been gone, and their land <hi>deſolute.</hi>)</l>
+               <l>And that it is not ſo in <hi>other</hi> places,</l>
+               <l>Where <hi>th' Ark's</hi> expos'd to manifold
+<hi>diſgraces;</hi>
+               </l>
+               <l>The <hi>appointed</hi> worſhip of the Lord
+<hi>forbidden,</hi>
+               </l>
+               <l>And many of his <hi>uſeful talents hidden;</hi>
+               </l>
+               <l>Where the <hi>Ark,</hi> and <hi>Samuel</hi> are
+<hi>ſeparated;</hi>
+               </l>
+               <l>That ſuch a people are not <hi>deſolated,</hi>
+               </l>
+               <l>It only can aſcribed be to this,</l>
+               <l>That God <hi>long ſuffering,</hi> and <hi>patient</hi> is.</l>
+               <l>Prieſts and Diviners next to <hi>Convocation</hi>
+                  <note place="margin">2.</note>
+               </l>
+               <l>(To ſave the remnant of a ruin'd Nation)</l>
+               <l>Are call'd and ask'd; How ſhall we do (we pray)</l>
+               <l>In ſending of this Ark of God away?</l>
+               <l>We <hi>cannot keep it</hi> longer, needs muſt ſend it:</l>
+               <l>Tell us, but <hi>how</hi> we may not more offend it.</l>
+               <l>It ſeems among the <hi>Lords</hi> they had no places;<note place="margin">3</note>
+               </l>
+               <l>
+                  <hi>No Voters,</hi> but <hi>adviſers</hi> in the
+<hi>caſes</hi>
+               </l>
+               <l>To them <hi>propos'd:</hi> they are demanded now,</l>
+               <l>Not what is to be done; but only how.</l>
+               <l>In any wiſe let it not empty go,</l>
+               <l>(Say they) but with a <hi>Treſpaſs-offring:</hi> ſo</l>
+               <l>You ſhall do, what in <hi>justice</hi> does become you;</l>
+               <l>And know why's hand is not removed from you.</l>
+               <l>
+                  <pb n="13" facs="tcp:170774:7"/>Five Emerods, and five Mice of gold, for all</l>
+               <l>The five <hi>Philistian</hi> Lords, on whom did fall<note place="margin">4.</note>
+               </l>
+               <l>The common Plague; and <hi>peradventure</hi> theſe</l>
+               <l>The offended God of <hi>Jacob</hi> ſhall appeaſe.</l>
+               <l>Give Glory to the God of <hi>Iſrael,</hi>
+                  <note place="margin">5.</note>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd
+<hi>peradventure</hi> then ſhall all be well.</l>
+               <l>Why then like <hi>Pharaoh,</hi> and th' <hi>Egyptians</hi> are ye?<note place="margin">6.</note>
+               </l>
+               <l>VVho <hi>could not force</hi> the <hi>Iſraelites</hi> to tarry;</l>
+               <l>Their God wrought wonders on thoſe
+<hi>stubborn-hearted;</hi>
+               </l>
+               <l>
+                  <hi>Made them</hi> to let them go, and they departed.</l>
+               <l>'Tis ſtrange, and w at could never be expected</l>
+               <l>From ſuch Idolaters, unleſs directed,</l>
+               <l>As <hi>Balaam</hi> the VVitch: ſuch good adviſe,</l>
+               <l>Such ſober words, whence could they have their
+<hi>riſe?</hi>
+               </l>
+               <l>Do but obſerve the <hi>principle</hi> within;</l>
+               <l>You'l find it <hi>fear,</hi> not <hi>faith,</hi> and therefore
+<hi>ſin:</hi>
+               </l>
+               <l>On <hi>Peradventures</hi> only they proceed;</l>
+               <l>They could not <hi>hope,</hi> that God would do't indeed</l>
+               <l>Make a new Cart, tye to't two kine, from whom<note place="margin">7.</note>
+               </l>
+               <l>Unus'd to draw, ſhut up their calves at home;</l>
+               <l>Lay the Ark on it; therein let it ride:<note place="margin">8.</note>
+               </l>
+               <l>The Jewels in a coffer by its ſide:</l>
+               <l>Then let it go; and let us <hi>trial</hi> make;<note place="margin">9.</note>
+               </l>
+               <l>If the way to <hi>Bethſhemeth</hi> then it take,</l>
+               <l>Then 'twas indeed <hi>their God,</hi> did thus undo us:</l>
+               <l>If not; then 'twas a <hi>chance</hi> did happen to us.</l>
+               <l>A chance? blind VVizards! Is not yet the hand</l>
+               <l>Of God above <hi>perceiv'd against the Land?</hi>
+               </l>
+               <l>Shall <hi>Fortune</hi> rob <hi>wiſe,</hi> and <hi>just Providence?</hi>
+               </l>
+               <l>If you want <hi>Faith,</hi> where's <hi>Reaſon?</hi> where is
+<hi>Sence?</hi>
+               </l>
+               <l>When men will ſtill for <hi>Signes</hi> and <hi>Wonders</hi> call,</l>
+               <l>The <hi>last</hi> experiment's their <hi>final fall.</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll this was done according as inſtructed;<note place="margin">10.</note>
+               </l>
+               <l>And God himſelf homewards the Ark conducted:</l>
+               <l>The unaccuſtom'd heifers do not ſtray;<note place="margin">11.</note>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut to
+<hi>Bethſhemeth</hi> keep the ready way.</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>brutes,</hi> that act only by <hi>ivstinct,</hi> may</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earken to God, and nature diſobey;</l>
+               <l>
+                  <pb n="14" facs="tcp:170774:8"/>No wonder, <hi>men</hi> of
+<hi>conſcience</hi> do prefer</l>
+               <l>
+                  <hi>Gods laws, before the</hi> laws of men that err.</l>
+               <l>Nor doubt I, if the <hi>Goſpel</hi> might go
+<hi>free,</hi>
+               </l>
+               <l>'T would run its <hi>own courſe,</hi> and moſt glorious be.</l>
+               <l>
+                  <hi>Lowing back</hi> to their Calves they <hi>onward go,</hi>
+               </l>
+               <l>To ſee, if poſſibly it could be ſo.</l>
+               <l>The <hi>Philistins</hi> do follow to the borders:</l>
+               <l>See Nature's God inverting Nature's orders.</l>
+               <l>The <hi>Bethſhemites</hi> were reaping in the Fields,<note place="margin">13.</note>
+               </l>
+               <l>When th'Ark to them a joyful object yields.</l>
+               <l>Harveſt's a <hi>joyful time</hi> to all; then more,</l>
+               <l>When God his Ark to <hi>Iſrael</hi> did reſtore,</l>
+               <l>But 'tis <hi>as ſad</hi> to them, that think, and ſay,</l>
+               <l>The Ark in <hi>Harvest-time</hi> was ta'ne away.</l>
+               <l>The food for <hi>bodies</hi> will not much delight,</l>
+               <l>Where there wants <hi>food</hi> for <hi>ſpiritual</hi> appetite.<note place="margin">14.</note>
+               </l>
+               <l>The Cart came into <hi>Joſhuah</hi>'s grounds, and ſtood</l>
+               <l>At the great ſtone: ev'n <hi>there</hi> they clave the wood</l>
+               <l>O'th' Cart; therewith the beaſts to God they burn'd</l>
+               <l>This ſeen, the Lords o'th' <hi>Philistins</hi> return'd:<note place="margin">16.</note>
+               </l>
+               <l>Left Mice, and Emerods, for each City one;<note place="margin">17.</note>
+               </l>
+               <l>Gath, Ekron, Gaza, Aſhdod, Askelon.</l>
+               <l>Mice marr'd the Land, and Emerods hurt the men;</l>
+               <l>They left Memorials of both; and then</l>
+               <l>Return'd, return'd? methinks they ſhould have ſtaid,</l>
+               <l>And with the <hi>Iſraelites</hi> to God have pray'd,</l>
+               <l>Whereas they only ſaw't; 'tis poor to <hi>ſee</hi>
+               </l>
+               <l>A <hi>ſacrifice,</hi> and not <hi>partakers</hi> be.</l>
+               <l>Th'ad joyn'd in worſhip, been with <hi>Iſrael</hi> one;</l>
+               <l>Had their <hi>Conviction</hi> been <hi>Converſion:</hi>
+               </l>
+               <l>But <hi>dogs</hi> will to their <hi>vomit; ſwine</hi> to
+<hi>mire;</hi>
+                  <note place="margin">2 Pet. 2.22.</note>
+               </l>
+               <l>
+                  <hi>Philistins</hi> to be <hi>Philistins</hi> deſire.</l>
+               <l>They care <hi>not to be priviledg'd</hi> by God;</l>
+               <l>They only care how to <hi>eſcape his rod.</hi>
+               </l>
+               <l>Where the Cart ſtay'd, they ſacrific'd; the
+<hi>place</hi>
+               </l>
+               <l>Their holy thankfulneſs does not <hi>diſgrace;</hi>
+               </l>
+               <l>But rather <hi>dignifies;</hi> ſuch <hi>quick addreſs,</hi>
+               </l>
+               <l>
+                  <hi>Suitable</hi> to their <hi>preſent thankefulneſs</hi>
+               </l>
+               <l>
+                  <pb n="15" facs="tcp:170774:8"/>Is better than <hi>thanks-givings</hi> in
+<hi>diſguiſe.</hi>
+               </l>
+               <l>Of fine <hi>conceited for mal pageantries.</hi>
+               </l>
+               <l>Thus far 'twas well; but wrath (at laſt alas)<note place="margin">19.</note>
+               </l>
+               <l>Againſt the <hi>Bethſhemites</hi> enkindled was;</l>
+               <l>For that into the Ark irreverently</l>
+               <l>They look't; for which 'bove fifty thouſand die.</l>
+               <l>
+                  <hi>Irreverence</hi> will be puniſh'd in
+<hi>profeſſors,</hi>
+               </l>
+               <l>As well as <hi>irreligion</hi> in <hi>oppreſſors.</hi>
+               </l>
+               <l>Too <hi>hot</hi> the Ark was for its <hi>rude bereavers;</hi>
+               </l>
+               <l>Too <hi>beavy</hi> likewiſe for its <hi>rude receivers.</hi>
+               </l>
+               <l>They greatly do lament their loſs, and cry'd;</l>
+               <l>VVho can before this holy Lord abide?<note place="margin">20.</note>
+               </l>
+               <l>How jealous is our God! Can any tell?</l>
+               <l>VVho can with everlaſting burnings dwell?<note place="margin">Iſa. 33.2</note>
+               </l>
+               <l>To <hi>whom</hi> ſhall he go up <hi>from us?</hi> they ſent</l>
+               <l>To <hi>Kiriath jearim</hi> and repreſent,</l>
+               <l>How the <hi>Philistins</hi> brought the Ark again:<note place="margin">Ch. 7.1</note>
+               </l>
+               <l>Pray them to fetch it, with them to remain.</l>
+               <l>They bring it up, where <hi>Twenty years</hi> it reſted:</l>
+               <l>
+                  <hi>Eleazar</hi> for its keeping is inveſted.</l>
+               <l>There with <hi>Abinadab</hi> it ſtay'd, <hi>until</hi>
+                  <note place="margin">2.</note>
+               </l>
+               <l>
+                  <hi>David</hi> remov'd it to its <hi>holy hill.</hi>
+               </l>
+               <l>Reſt, O reſt, thou Ark of ſtrength,</l>
+               <l>After toſſings to and fro;</l>
+               <l>Quietly repoſe at length,</l>
+               <l>After <hi>storms</hi> do over blow.</l>
+               <l>
+                  <hi>Noah's Ark</hi> thus quiet ſat</l>
+               <l>After the flood on <hi>Ararat.</hi>
+               </l>
+               <l>Now thy <hi>wicked Priests</hi> are outed;</l>
+               <l>
+                  <hi>Dagon's faln</hi> to the ground;</l>
+               <l>
+                  <hi>Wearied Philistins</hi> are routed;</l>
+               <l>
+                  <hi>Bold Peepers</hi> have a mortal wound;</l>
+               <l>All thine enemies are cruſh'd;</l>
+               <l>About thee all the noiſe is huſh'd.</l>
+               <l>Only, let poor <hi>Iſrael's</hi>
+               </l>
+               <l>
+                  <hi>Lamenters</hi> for thy <hi>privacy</hi>
+               </l>
+               <l>Have acceſs to him, that dwells<note place="margin">Ch.
+7.2.</note>
+               </l>
+               <l>In thee: (and yet remains on high.)</l>
+               <l>
+                  <pb n="16" facs="tcp:170774:9"/>True VVorſhippers can never be</l>
+               <l>Content, without approach to thee.</l>
+               <l>The <hi>manuſcript</hi> of God on high,<note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eut. 10.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 5.</note>
+               </l>
+               <l>The <hi>copy</hi> of his Sacred <hi>Will</hi>
+               </l>
+               <l>Is treaſur'd in thy cavity:</l>
+               <l>Glories of heaven do thee fill.</l>
+               <l>The embleme of his preſence lies</l>
+               <l>In thee the <hi>type</hi> of <hi>Mysteries.</hi>
+               </l>
+               <l>The <hi>Mercy-ſeat</hi> is plac't aloft;<note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xod 37.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 7.</note>
+               </l>
+               <l>On that the<note n="*" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note>
+                  <hi>Cherubims</hi> do <hi>ride;</hi>
+               </l>
+               <l>From thence the <hi>Oracles</hi> are <hi>ſought;</hi>
+               </l>
+               <l>For that the Lord does there reſide.</l>
+               <l>How can a ſoul, that is devout,<note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uitare.</note>
+               </l>
+               <l>Such heavenly glories be without?</l>
+               <l>O thou <hi>God</hi> o'th' <hi>Covenant</hi>
+               </l>
+               <l>The <hi>Ark</hi> o'th' <hi>Covenant</hi> us reſtore;</l>
+               <l>Vouchſafe therewith ſuch grace to grant,</l>
+               <l>That we may <hi>forfeit</hi> it no more.</l>
+               <l>Let <hi>Covenant-mercy Covenant-ſervants</hi> free</l>
+               <l>From thoſe, that <hi>Covenant-contemners</hi> be.</l>
+               <p>Now ſing to the praiſe and glory of God, a part of the 2
+<hi>Pſal.</hi> beginning at the 10 verſ.
+<q>Now O ye, &amp;c.</q>
+               </p>
+               <p>As it is meeter'd by <hi>Simple Honesty,</hi> uſe this
+<hi>old</hi> tranſla<g ref="char:EOLhyphen"/>tion well; if you <hi>will</hi> not, uſe a better.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
